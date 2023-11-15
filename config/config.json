@@ -1,0 +1,11 @@
+{
+  "nvr": "http://ip",
+
+  "username": "admin",
+  "password": "pass",
+
+  "backend_server": "http://backend",
+
+  "dev": true
+
+}
